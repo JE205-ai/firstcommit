@@ -1,6 +1,6 @@
 const title1 = $(".title");
 
-
+// joya
 
 const item1 = $(".faq-item_cotent");
 
